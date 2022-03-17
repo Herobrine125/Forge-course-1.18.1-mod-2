@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BTB",
+    "TRT",
+    "BTB"
+  ],
+  "key": {
+    "T": {
+      "item": "mymod:cobalt_ingot"
+    },
+    "R": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 64
+  }
+}
