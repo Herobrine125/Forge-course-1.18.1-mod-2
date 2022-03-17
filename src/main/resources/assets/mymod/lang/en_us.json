@@ -1,0 +1,12 @@
+{
+  "item.mymod.cobalt_ingot": "Cobalt Ingot",
+  "item.mymod.raw_cobalt": "Raw Cobalt",
+  "item.mymod.cobalt_nugget": "Cobalt Nugget",
+
+  "block.mymod.cobalt_block": "Cobalt Block",
+  "block.mymod.cobalt_ore": "Cobalt Ore",
+  "block.mymod.raw_cobalt_block": "Raw Cobalt Block",
+  "block.mymod.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+
+  "itemGroup.coursemodtab": "Cobalt Mod"
+}

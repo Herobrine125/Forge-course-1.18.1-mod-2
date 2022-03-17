@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mymod:cobalt_block",
+    "mymod:raw_cobalt_block",
+    "mymod:cobalt_ore",
+    "mymod:deepslate_cobalt_ore"
+  ]
+}
